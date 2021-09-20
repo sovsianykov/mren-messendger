@@ -1,5 +1,4 @@
 import React, { useEffect, useState } from 'react';
-import './App.css';
 import {  FormControl, Input } from '@material-ui/core'
 import Message from './Message';
 import FlipMove from 'react-flip-move';
